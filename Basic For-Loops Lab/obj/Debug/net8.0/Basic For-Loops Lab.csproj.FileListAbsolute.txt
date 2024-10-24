@@ -1,0 +1,15 @@
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/bin/Debug/net8.0/Basic For-Loops Lab
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/bin/Debug/net8.0/Basic For-Loops Lab.deps.json
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/bin/Debug/net8.0/Basic For-Loops Lab.runtimeconfig.json
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/bin/Debug/net8.0/Basic For-Loops Lab.dll
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/bin/Debug/net8.0/Basic For-Loops Lab.pdb
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.AssemblyInfoInputs.cache
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.AssemblyInfo.cs
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.csproj.CoreCompileInputs.cache
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.sourcelink.json
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.dll
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/refint/Basic For-Loops Lab.dll
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.pdb
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/Basic For-Loops Lab.genruntimeconfig.cache
+/Users/hoover/Desktop/Desktop - Min's Macbook Pro/Grand Circus Projects/LabWork/Basic For-Loops Lab/obj/Debug/net8.0/ref/Basic For-Loops Lab.dll
