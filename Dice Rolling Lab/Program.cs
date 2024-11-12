@@ -1,3 +1,30 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 
+
+// This is Dice Rolling Lab
+
+
+
+// Method to Generate Random Number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Console.ReadLine();
